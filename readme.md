@@ -21,3 +21,9 @@ The home service robot should be simulated as follow:
 ### launch files have been configured for the custom map and world created in earlier projects
 * rviz config has been saved to default space direcltly and markers can be seen in rviz as view_navigation.launch is launced
 
+following ROS packages were used and the process of obtaining them is detailed below:
+gmapping
+turtlebot_teleop
+turtlebot_rviz_launchers
+turtlebot_gazebo
+
